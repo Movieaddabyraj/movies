@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://i.ibb.co/qpxpGmC/image.jpg" alt="Jisshu-Auto-filter">
+  <img src="https://i.ibb.co/pXbJxdg/file-4739.jpg" alt="raj-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
+  <a href="https://telegram.me/bestshayri_raj">Movie/Auto Filter Bot</a>
 </h1>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://i.ibb.co/c3yRK1T/file-4750.jpg/rajbot/resources/hr.gif"/>
 
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
 `/commands` Enter this command inside the bot and all the commands will be set automatically.
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://i.ibb.co/q7r3xnW/file-4751.jpg/Jisshubot/resources/hr.gif"/>
 
 ## **Futures**
 <details><summary>Check Bot Futures</summary>
@@ -59,7 +59,7 @@
 - [x] Set ads 
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 </details>
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://i.ibb.co/pXbJxdg/file-4739.jpg/RAJbot/resources/hr.gif"/>
 
 ## Variables
 
@@ -69,7 +69,7 @@
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: ID of channel for Auto Indexing. Separate multiple IDs by space. Make sure bot is admin.
 * `ADMINS`: ID of Admin. Separate multiple Admins by space.
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](TU APNE RAJ PAPA KO BOL)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
@@ -138,11 +138,11 @@ python3 bot.py
 
 
 ## **Thanks to** 
- - <b>Thanks To [Zishan Khan](https://t.me/JISSHU_BOTS) To Modify And Add Amazing Feature In The Repo
- - Thanks To [biisal](https://github.com/biisal/biisal-filter-bot) For Base Repo
- - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/TG_Anonymous_Official) To refresh Future Code and Update premium future</b>
- - Thanks To [Zoro](https://t.me/JOYBOY_ZORO) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
- - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/CoderluffyTG) For fixing key errors and making the bot better. Your help has been truly appreciated!
+ - <b>Thanks To [RAJ KING](https://t.me/bestshayri_raj) To Modify And Add Amazing Feature In The Repo
+ - Thanks To [Boss raj](https://github.com/biisal/biisal-filter-bot) For Base Repo
+ - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/bestshayri_raj) To refresh Future Code and Update premium future</b>
+ - Thanks To [tera bap raj](https://t.me/bestshayri_raj) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
+ - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/+87Sx4ADVgQc2NDQ1) For fixing key errors and making the bot better. Your help has been truly appreciated!
  - Thanks To All Everyone In This Journey
- <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+ <img src="https://i.ibb.co/q7r3xnW/file-4751.jpg/rajbot/resources/hr.gif"/>
 
