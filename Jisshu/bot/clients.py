@@ -2,8 +2,8 @@ import asyncio
 import logging
 from info import *
 from pyrogram import Client
-from Jisshu.util.config_parser import TokenParser
-from . import multi_clients, work_loads, JisshuBot
+from RAJ.util.config_parser import TokenParser
+from . import multi_clients, work_loads, rajBot
 
 
 async def initialize_clients():
